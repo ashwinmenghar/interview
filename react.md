@@ -93,6 +93,8 @@ React Router is a **routing library** for React that allows navigation between d
 
 React Fragments allow you to **group multiple elements** without adding extra nodes to the DOM. This is useful when returning multiple elements from a component without wrapping them in an unnecessary `<div>`.
 
+---
+
 ### **21. What is the difference between `useMemo` and `useCallback`?**
 
 - `useMemo` is used to **memoize a computed value**, preventing unnecessary recalculations unless its dependencies change.
