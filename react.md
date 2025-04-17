@@ -1,4 +1,4 @@
-# 🌟 React Interview Questions and Answers (Detailed, No Code)
+# 🌟 React Interview Questions and Answers
 
 ### 1. What is React?
 
